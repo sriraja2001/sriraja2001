@@ -1,4 +1,4 @@
-<h1>Hello. I'm Sri & I ❤️ code.</h1>
+<h1>Hello. I'm Sri & I ❤️ to code.</h1>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Full-Stack Application Developer
